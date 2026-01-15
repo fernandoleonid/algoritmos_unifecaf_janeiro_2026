@@ -1,1 +1,1 @@
-# algoritmos_unifecaf_janeiro_2026
+# Algorithmic Thinking & Introduction to Object-Oriented Programming
