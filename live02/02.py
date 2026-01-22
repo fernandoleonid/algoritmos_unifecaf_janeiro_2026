@@ -12,5 +12,7 @@ produtos = [
     'Caixa de som'
 ]
 
+produtos [1] = 'Mouse sem fio'
+
 for produto in produtos:
     print (f'--> {produto}')

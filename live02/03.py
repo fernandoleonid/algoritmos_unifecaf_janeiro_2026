@@ -5,4 +5,6 @@ aluno = {
     'nota': 4.5
 }
 
-print (aluno['nota'])
+aluno ['idade'] = 40
+
+print (aluno['idade'])
